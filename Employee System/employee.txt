@@ -1,0 +1,4 @@
+Ahsan Khan,50000,IT
+Alia Shams,60000,Management
+Najam ul Saqib,30000,Sales
+Ahmer Javed,50000,IT
